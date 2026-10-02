@@ -1,6 +1,4 @@
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch, scikit-learn" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /><div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vanuj%20Gangrade&fontSize=52&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=58&animation=fadeIn" alt="Vanuj Gangrade banner" />
 
@@ -39,14 +37,16 @@ Final-year **B.Tech Computer Science (Data Science)** student at **VIT Vellore**
 <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sqlite&theme=dark" alt="Python, R, PostgreSQL, MySQL, SQLite" />
 
 **Data, ML and AI**<br>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy&theme=dark" alt="PyTorch, scikit-learn, pandas, NumPy" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch, scikit-learn" /><br>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge" alt="LightGBM" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
 **Analytics and BI**<br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge" alt="LightGBM" />
 
 **Cloud and tools**<br>
 <img src="https://skillicons.dev/icons?i=aws,fastapi,react,docker,git,github&theme=dark" alt="AWS, FastAPI, React, Docker, Git, GitHub" />
@@ -95,18 +95,3 @@ Final-year **B.Tech Computer Science (Data Science)** student at **VIT Vellore**
 I'm always up for a conversation about data, analytics or ML. Reach me on [LinkedIn](https://www.linkedin.com/in/vanuj-gangrade) or at [gangradevanuj25@gmail.com](mailto:gangradevanuj25@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
-
-<!--
-**vanujxyz/vanujxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
